@@ -1,0 +1,4 @@
+How does git work.
+
+This is a data file. 
+
